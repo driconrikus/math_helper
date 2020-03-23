@@ -6,7 +6,7 @@ Math helper is a little python script that helps you calcule the hypotenuse, are
 
 Simply type in one of the following options:
 
-- **Hypotenuse**: Calculates the length of the hypotenuse using Pythagorea's theorem.
+- **Hypotenuse**: Calculates the length of the hypotenuse using the Pythagorean theorem.
 - **Area**: Calculates the area with Pi * r^2.
 - **Perimeter**: Calculates the perimeter with the diameter.
 - **Diameter**: Calculates the diameter with perimeter.
